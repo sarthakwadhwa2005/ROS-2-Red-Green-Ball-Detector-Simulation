@@ -114,12 +114,3 @@ View output:
 ```bash
 ros2 topic echo /ball_detector/detections
 ```
-
-## 9. Team Submission Notes
-For your report/demo, include:
-- Team members (4 from same section)
-- Problem statement selected
-- Objective and expected outcome
-- Screenshots of Gazebo scene and annotated output
-- Topic output evidence (`/ball_detector/detections`)
-- Discussion against your evaluation rubric
